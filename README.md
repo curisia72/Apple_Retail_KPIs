@@ -45,9 +45,9 @@ The main objective was to use SQL to:
 
 ## Results Summary
 
-- Identified the top 3 stores by total revenue, with **[Apple The Dubai Mall, Apple Orchard Road, Apple Central World]** generating the highest sales overall.  
-- Found that **[HomePod mini]** contributed the most to overall revenue, indicating strong customer demand in that area.  
-- Discovered that stores in the **[United States]** consistently outperformed others in total quantity sold.  
+- Identified the top 3 stores by total revenue, with **Apple The Dubai Mall, Apple Orchard Road, Apple Central World** generating the highest sales overall.  
+- Found that **HomePod mini** was the most sold item across all years, indicating strong customer demand in that area.  
+- Discovered that stores in the **United States** consistently outperformed others in total quantity sold.  
 - Analyzed average price and quantity sold to identify potential pricing or inventory optimization opportunities.  
 - Created a SQL view to consolidate key metrics (total revenue, quantity sold, and expenses) for easier analysis and reporting.
 
